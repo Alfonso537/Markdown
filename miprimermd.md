@@ -10,12 +10,12 @@ Esto es un párrafo y esto
 2. segundo
 3. tercero
 
--leche
--huevos
--cereales
-	-multicolor
-	-chocolate
-	-sin azucar
+- leche
+- huevos
+- cereales
+	- multicolor
+	- chocolate
+	- sin azucar
 
 [aules](https://portal.edu.gva.es/aules/es/inicio/)
 [enlace a otro fichero](README.md)
@@ -24,5 +24,6 @@ Esto es un párrafo y esto
 ![imagen](perro.jpg)
 
 | Mes | Banner |
+| -------- | ------- | ------- |
 | Julio | Aniversario |
 | Septiembre | WWC |
