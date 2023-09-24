@@ -24,6 +24,6 @@ Esto es un párrafo y esto
 ![imagen](perro.jpg)
 
 | Mes | Banner |
-| -------- | ------- | ------- |
+| -------- | ------- |
 | Julio | Aniversario |
 | Septiembre | WWC |
